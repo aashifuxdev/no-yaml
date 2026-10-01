@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: no-yaml
+  structure:
+    - type: space
+      key: space-no-yaml
+      title: no-yaml
+      path: no-yaml
+      default: true
+      content:
+        directory: ./
