@@ -1,7 +1,6 @@
 ---
 tags:
   - new-tag
----
 
 # Page 2
 
